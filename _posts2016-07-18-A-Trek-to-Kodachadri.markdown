@@ -3,7 +3,7 @@ layout:     post
 title:      "Kodachadri"
 subtitle:   "A trek to heavens"
 image:
-  feature: "pc007.jpg"
+  feature: "IMG_6933.jpg"
 date:       2016-02-01 
 author:     "owner_name"
 header-img: "img/postcover/IMG_6933.jpg"
