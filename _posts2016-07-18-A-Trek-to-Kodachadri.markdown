@@ -7,8 +7,8 @@ image:
 date:       2016-02-01 
 author:     "owner_name"
 header-img: "img/postcover/IMG_6933.jpg"
-tags: [tag04]
-categories: [cat04]
+tags: [Trek]
+categories: [Travel]
 comments: false
 ---
 
