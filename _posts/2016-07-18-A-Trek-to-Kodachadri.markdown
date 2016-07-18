@@ -3,10 +3,10 @@ layout:     post
 title:      "Kodachadri"
 subtitle:   "A trek to heavens"
 image:
-  feature: "IMG_6933.jpg"
+  feature: "IMG_6933.JPG"
 date:       2016-02-01 
 author:     "owner_name"
-header-img: "img/postcover/IMG_6933.jpg"
+header-img: "img/postcover/IMG_6933.JPG"
 tags: [Trek]
 categories: [Travel]
 comments: false
