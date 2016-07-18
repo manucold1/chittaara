@@ -1,12 +1,12 @@
 ---
 layout:     post
-title:      "LIGHTBOX"
-subtitle:   "A post with images using lightbox"
+title:      "Kodachadri"
+subtitle:   "A trek to heavens"
 image:
   feature: "pc007.jpg"
 date:       2016-02-01 
 author:     "owner_name"
-header-img: "img/postcover/pc007.jpg"
+header-img: "img/postcover/IMG_6933.jpg"
 tags: [tag04]
 categories: [cat04]
 comments: false
